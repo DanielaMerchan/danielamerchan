@@ -1,10 +1,10 @@
-# Hello! I'm Daniela Merchán 👋  
+# Hello! I'm Daniela Merchan 👋  
 **Software Developer**
 
 I'm a software developer with experience in technical leadership and full-stack development. I'm passionate about creating efficient solutions and optimizing processes through technology.
 
 ## 🚀 Skills  
-- **Frontend**: HTML, CSS, JavaScript, React  
+- **Frontend**: HTML, CSS, JavaScript, Typescript, React, Bootstrap.
 - **Backend**: PHP, Python, RESTful APIs, Node.js  
 - **Databases**: MySQL, SQL Server  
 - **Cloud**: AWS (EC2, S3)  
